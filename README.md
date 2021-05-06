@@ -9,7 +9,7 @@ Profile(name){
     Technologies = {
             FrontEnd = {
                 c# = ["blazor"],
-                js = ["MVC", "Blazor", "Asp.NetCore"],
+                js = ["Vanila"],
                 css = ["bootstrap"]
             },
             Backend = {
